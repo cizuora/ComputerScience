@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - Introduction to Computer Science and Programming/Part 1 - What is Porgramming.md",
+                "file": "0 - Introduction to Computer Science and Programming/Part 2 - How do we write Code?.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 - Introduction to Computer Science and Programming/Part 1 - What is Porgramming.md",
+                "file": "0 - Introduction to Computer Science and Programming/Part 2 - How do we write Code?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0 - Introduction to Computer Science and Programming/Part 1 - What is Porgramming.md",
+                "file": "0 - Introduction to Computer Science and Programming/Part 2 - How do we write Code?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 - Introduction to Computer Science and Programming/Part 1 - What is Porgramming.md"
+                "file": "0 - Introduction to Computer Science and Programming/Part 2 - How do we write Code?.md"
               }
             }
           },
@@ -169,11 +169,30 @@
   },
   "active": "34f27e8804089622",
   "lastOpenFiles": [
+    "0 - Introduction to Computer Science and Programming/Part 3 - How do we Manipulate Variables?.md",
+    "0 - Introduction to Computer Science and Programming/Part 2 - How do we write Code?.md",
+    "0 - Introduction to Computer Science and Programming/Part 1 - What is Porgramming.md",
+    "0 - Introduction to Computer Science and Programming/Part 4 - What can computer's do?.md",
+    "0 - Introduction to Computer Science and Programming/Part 5 - What are Variables?.md",
+    "0 - Introduction to Computer Science and Programming/Part 6 - How do we Manipulate Variables.md",
+    "0 - Introduction to Computer Science and Programming/Part 7 - What are Conditional Statements?.md",
+    "0 - Introduction to Computer Science and Programming/Part 8 - What are Arrays?.md",
+    "0 - Introduction to Computer Science and Programming/Part 9 - What are Loops?.md",
+    "0 - Introduction to Computer Science and Programming/Part 10 - What are Errors?.md",
+    "0 - Introduction to Computer Science and Programming/Part 11 - How do we Debug code?.md",
+    "0 - Introduction to Computer Science and Programming/Part 12 - What are functions?.md",
+    "0 - Introduction to Computer Science and Programming/Part 13 - How can we import functions?.md",
+    "0 - Introduction to Computer Science and Programming/Part 14 - How do we make our own functions?.md",
+    "0 - Introduction to Computer Science and Programming/Part 15 - What are ArrayList and Dictionaries.md",
+    "0 - Introduction to Computer Science and Programming/Part 16 - How can we use Data Structures?.md",
+    "0 - Introduction to Computer Science and Programming/Part 17 - What is Recursion?.md",
+    "0 - Introduction to Computer Science and Programming/Part 18 - What is Pseudocode?.md",
+    "0 - Introduction to Computer Science and Programming/Part 19 - Choosing the right Language.md",
+    "0 - Introduction to Computer Science and Programming/Part 20 - Applications of Programming.md",
     "0 - Introduction to Computer Science and Programming/zPictures/Pasted image 20250107111413.png",
     "0 - Introduction to Computer Science and Programming/zPictures/Pasted image 20250107110007.png",
     "0 - Introduction to Computer Science and Programming/zPictures",
     "0 - Introduction to Computer Science and Programming/Part 0 - Introduction.md",
-    "0 - Introduction to Computer Science and Programming/Part 1 - What is Porgramming.md",
     "Welcome.md",
     "Projects/Projects/0 - Introduction to Computer Science and Programming/HellowWord.Java",
     "Projects/Projects/0 - Introduction to Computer Science and Programming",
@@ -181,25 +200,6 @@
     "Projects/Projects",
     "Projects/Computer Science",
     "Projects",
-    "0 - Introduction to Computer Science and Programming/Part 9 - What are Loops?.md",
-    "0 - Introduction to Computer Science and Programming/Part 8 - What are Arrays?.md",
-    "0 - Introduction to Computer Science and Programming/Part 7 - What are Conditional Statements?.md",
-    "0 - Introduction to Computer Science and Programming/Part 6 - How do we Manipulate Variables.md",
-    "0 - Introduction to Computer Science and Programming/Part 5 - What are Variables?.md",
-    "0 - Introduction to Computer Science and Programming/Part 4 - What can computer's do?.md",
-    "0 - Introduction to Computer Science and Programming/Part 3 - How do we Manipulate Variables?.md",
-    "0 - Introduction to Computer Science and Programming/Part 20 - Applications of Programming.md",
-    "0 - Introduction to Computer Science and Programming/Part 2 - How do we write Code?.md",
-    "0 - Introduction to Computer Science and Programming/Part 19 - Choosing the right Language.md",
-    "0 - Introduction to Computer Science and Programming/Part 17 - What is Recursion?.md",
-    "0 - Introduction to Computer Science and Programming/Part 18 - What is Pseudocode?.md",
-    "0 - Introduction to Computer Science and Programming/Part 16 - How can we use Data Structures?.md",
-    "0 - Introduction to Computer Science and Programming/Part 15 - What are ArrayList and Dictionaroes.md",
-    "0 - Introduction to Computer Science and Programming/Part 13 - How can we import functions?.md",
-    "0 - Introduction to Computer Science and Programming/Part 14 - How do we make our own functions?.md",
-    "0 - Introduction to Computer Science and Programming/Part 12 - What are functions?.md",
-    "0 - Introduction to Computer Science and Programming/Part 11 - How do we Debug code?.md",
-    "0 - Introduction to Computer Science and Programming/Part 10 - What are Errors?.md",
     "0 - Introduction to Computer Science and Programming"
   ]
 }
