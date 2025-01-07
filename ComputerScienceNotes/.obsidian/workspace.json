@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - Introduction to Computer Science and Programming/Part 0 - Introduction.md",
+                "file": "0 - Introduction to Computer Science and Programming/Part 1 - What is Porgramming.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 - Introduction to Computer Science and Programming/Part 0 - Introduction.md",
+                "file": "0 - Introduction to Computer Science and Programming/Part 1 - What is Porgramming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0 - Introduction to Computer Science and Programming/Part 0 - Introduction.md",
+                "file": "0 - Introduction to Computer Science and Programming/Part 1 - What is Porgramming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 - Introduction to Computer Science and Programming/Part 0 - Introduction.md"
+                "file": "0 - Introduction to Computer Science and Programming/Part 1 - What is Porgramming.md"
               }
             }
           },
@@ -169,6 +169,11 @@
   },
   "active": "34f27e8804089622",
   "lastOpenFiles": [
+    "0 - Introduction to Computer Science and Programming/zPictures/Pasted image 20250107111413.png",
+    "0 - Introduction to Computer Science and Programming/zPictures/Pasted image 20250107110007.png",
+    "0 - Introduction to Computer Science and Programming/zPictures",
+    "0 - Introduction to Computer Science and Programming/Part 0 - Introduction.md",
+    "0 - Introduction to Computer Science and Programming/Part 1 - What is Porgramming.md",
     "Welcome.md",
     "Projects/Projects/0 - Introduction to Computer Science and Programming/HellowWord.Java",
     "Projects/Projects/0 - Introduction to Computer Science and Programming",
@@ -195,8 +200,6 @@
     "0 - Introduction to Computer Science and Programming/Part 12 - What are functions?.md",
     "0 - Introduction to Computer Science and Programming/Part 11 - How do we Debug code?.md",
     "0 - Introduction to Computer Science and Programming/Part 10 - What are Errors?.md",
-    "0 - Introduction to Computer Science and Programming/Part 1 - What is Porgramming.md",
-    "0 - Introduction to Computer Science and Programming/Part 0 - Introduction.md",
     "0 - Introduction to Computer Science and Programming"
   ]
 }
