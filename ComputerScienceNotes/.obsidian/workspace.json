@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "e392b6c4f91be0e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "30d56fbd1901b65f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34f27e8804089622",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "4ebb19bdeb70bf12",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a279f15217a212f8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c071ab8201dd35ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "52a4f71f4f2ac277",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8cad40d741459cb0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "55768cb89416ac74",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8b87e73674383869",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a51a68162487e170",
+    "type": "split",
+    "children": [
+      {
+        "id": "e290eeac1d7abd89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad2668dc800b5f12",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "afb21f5e93293943",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b223e1d141e95ab7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a762538a613d123b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "34f27e8804089622",
+  "lastOpenFiles": [
+    "Welcome.md",
+    "Projects/Projects/0 - Introduction to Computer Science and Programming/HellowWord.Java",
+    "Projects/Projects/0 - Introduction to Computer Science and Programming",
+    "Projects/Projects/1 - CS 50 Projects",
+    "Projects/Projects",
+    "Projects/Computer Science",
+    "Projects",
+    "0 - Introduction to Computer Science and Programming/Part 9 - What are Loops?.md",
+    "0 - Introduction to Computer Science and Programming/Part 8 - What are Arrays?.md",
+    "0 - Introduction to Computer Science and Programming/Part 7 - What are Conditional Statements?.md",
+    "0 - Introduction to Computer Science and Programming/Part 6 - How do we Manipulate Variables.md",
+    "0 - Introduction to Computer Science and Programming/Part 5 - What are Variables?.md",
+    "0 - Introduction to Computer Science and Programming/Part 4 - What can computer's do?.md",
+    "0 - Introduction to Computer Science and Programming/Part 3 - How do we Manipulate Variables?.md",
+    "0 - Introduction to Computer Science and Programming/Part 20 - Applications of Programming.md",
+    "0 - Introduction to Computer Science and Programming/Part 2 - How do we write Code?.md",
+    "0 - Introduction to Computer Science and Programming/Part 19 - Choosing the right Language.md",
+    "0 - Introduction to Computer Science and Programming/Part 17 - What is Recursion?.md",
+    "0 - Introduction to Computer Science and Programming/Part 18 - What is Pseudocode?.md",
+    "0 - Introduction to Computer Science and Programming/Part 16 - How can we use Data Structures?.md",
+    "0 - Introduction to Computer Science and Programming/Part 15 - What are ArrayList and Dictionaroes.md",
+    "0 - Introduction to Computer Science and Programming/Part 13 - How can we import functions?.md",
+    "0 - Introduction to Computer Science and Programming/Part 14 - How do we make our own functions?.md",
+    "0 - Introduction to Computer Science and Programming/Part 12 - What are functions?.md",
+    "0 - Introduction to Computer Science and Programming/Part 11 - How do we Debug code?.md",
+    "0 - Introduction to Computer Science and Programming/Part 10 - What are Errors?.md",
+    "0 - Introduction to Computer Science and Programming/Part 1 - What is Porgramming.md",
+    "0 - Introduction to Computer Science and Programming/Part 0 - Introduction.md",
+    "0 - Introduction to Computer Science and Programming"
+  ]
+}
