@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - Introduction to Computer Science and Programming/Part 4 - What can computer's do?.md",
+                "file": "0 - Introduction to Computer Science and Programming/Part 5 - What are Variable's?.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 - Introduction to Computer Science and Programming/Part 4 - What can computer's do?.md",
+                "file": "0 - Introduction to Computer Science and Programming/Part 5 - What are Variable's?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0 - Introduction to Computer Science and Programming/Part 4 - What can computer's do?.md",
+                "file": "0 - Introduction to Computer Science and Programming/Part 5 - What are Variable's?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 - Introduction to Computer Science and Programming/Part 4 - What can computer's do?.md"
+                "file": "0 - Introduction to Computer Science and Programming/Part 5 - What are Variable's?.md"
               }
             }
           },
@@ -169,8 +169,9 @@
   },
   "active": "34f27e8804089622",
   "lastOpenFiles": [
-    "0 - Introduction to Computer Science and Programming/Part 3 - How do we get Information from Computers?.md",
     "0 - Introduction to Computer Science and Programming/Part 4 - What can computer's do?.md",
+    "0 - Introduction to Computer Science and Programming/Part 5 - What are Variable's?.md",
+    "0 - Introduction to Computer Science and Programming/Part 3 - How do we get Information from Computers?.md",
     "0 - Introduction to Computer Science and Programming/zPictures/Pasted image 20250107184613.png",
     "0 - Introduction to Computer Science and Programming/zPictures/Pasted image 20250107184115.png",
     "0 - Introduction to Computer Science and Programming/Part 2 - How do we write Code?.md",
