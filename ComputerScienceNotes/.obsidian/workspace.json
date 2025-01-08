@@ -150,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 302.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,7 +177,6 @@
     "0 - Introduction to Computer Science and Programming/Part 1 - What is Porgramming.md",
     "0 - Introduction to Computer Science and Programming/zPictures/Pasted image 20250107182013.png",
     "0 - Introduction to Computer Science and Programming/Part 3 - How do we Manipulate Variables?.md",
-    "0 - Introduction to Computer Science and Programming/Part 4 - What can computer's do?.md",
     "0 - Introduction to Computer Science and Programming/Part 5 - What are Variables?.md",
     "0 - Introduction to Computer Science and Programming/Part 6 - How do we Manipulate Variables.md",
     "0 - Introduction to Computer Science and Programming/Part 7 - What are Conditional Statements?.md",
