@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "30d56fbd1901b65f",
+        "id": "4c86ba1d73b16800",
         "type": "tabs",
         "children": [
           {
-            "id": "34f27e8804089622",
+            "id": "ee22d2533a765d04",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - Introduction to Computer Science and Programming/Part 5 - What are Variable's?.md",
+                "file": "0 - Introduction to Computer Science and Programming/Part 6 - How do we manipulate variables?.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 - Introduction to Computer Science and Programming/Part 5 - What are Variable's?.md",
+                "file": "0 - Introduction to Computer Science and Programming/Part 6 - How do we manipulate variables?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0 - Introduction to Computer Science and Programming/Part 5 - What are Variable's?.md",
+                "file": "0 - Introduction to Computer Science and Programming/Part 6 - How do we manipulate variables?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 - Introduction to Computer Science and Programming/Part 5 - What are Variable's?.md"
+                "file": "0 - Introduction to Computer Science and Programming/Part 6 - How do we manipulate variables?.md"
               }
             }
           },
@@ -167,10 +167,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "34f27e8804089622",
+  "active": "ee22d2533a765d04",
   "lastOpenFiles": [
-    "0 - Introduction to Computer Science and Programming/Part 4 - What can computer's do?.md",
+    "0 - Introduction to Computer Science and Programming/Part 7 - How do we manipulate variables?.md",
+    "0 - Introduction to Computer Science and Programming/Part 6 - How do we manipulate variables?.md",
     "0 - Introduction to Computer Science and Programming/Part 5 - What are Variable's?.md",
+    "0 - Introduction to Computer Science and Programming/zPictures/Pasted image 20250107204459.png",
+    "variables.md",
+    "0 - Introduction to Computer Science and Programming/zPictures/Pasted image 20250107204025.png",
+    "0 - Introduction to Computer Science and Programming/zPictures/Pasted image 20250107203624.png",
+    "0 - Introduction to Computer Science and Programming/Part 4 - What can computer's do?.md",
     "0 - Introduction to Computer Science and Programming/Part 3 - How do we get Information from Computers?.md",
     "0 - Introduction to Computer Science and Programming/zPictures/Pasted image 20250107184613.png",
     "0 - Introduction to Computer Science and Programming/zPictures/Pasted image 20250107184115.png",
@@ -198,7 +204,6 @@
     "0 - Introduction to Computer Science and Programming/zPictures/Pasted image 20250107110007.png",
     "0 - Introduction to Computer Science and Programming/zPictures",
     "0 - Introduction to Computer Science and Programming/Part 0 - Introduction.md",
-    "Welcome.md",
     "Projects/Projects/0 - Introduction to Computer Science and Programming/HellowWord.Java",
     "Projects/Projects/0 - Introduction to Computer Science and Programming",
     "Projects/Projects/1 - CS 50 Projects",

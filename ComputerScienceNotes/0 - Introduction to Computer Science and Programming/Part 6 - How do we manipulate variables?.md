@@ -1,0 +1,35 @@
+# What happens when we define a [[variable]]?
+- Create a little space in memory that stores your variable name and its contents.
+- We can also create a blank [[variable]].
+	- Reasons you would do this.
+		- Because you want to store information in the [[variable]] down the road.
+		- Because you are going to use it to store information given to you by the user.
+	- Trying to reference a blank [[variable]] will result in a NullPointerException.
+- Dual Pointed [[variables]]
+	- ![[Pasted image 20250107203624.png]]
+- Changing variables example:
+	- Age = 17;
+	- Age = 18;
+- RPG example:
+	- We want to make an RPG Game that has different stats.
+	- ![[Pasted image 20250107204025.png]]
+- The fate of [[variables]]
+	- After the code has run its course, [[variables]] are deleted in memory.
+- Other ways of Manipulating [[variables]]
+	- Integer, Float, and double variables can be
+		- Added.
+		- Subtracted.
+		- Multiplied.
+		- Divided.
+		- Modulused.
+	- String [[variables]] can be
+		- Added.
+			- ![[Pasted image 20250107204459.png]]
+	- Char's and Boolean's can't be operated on.
+- Naming [[variables]]
+	- There is one big rule when naming [[variables]].
+		- They MUST be one continuous String.
+	- Most programmers name variables according to camelCase.
+		- Don't capitalize the first word, but capitalize the first letter of all words after it
+
+## Go to Part 7
