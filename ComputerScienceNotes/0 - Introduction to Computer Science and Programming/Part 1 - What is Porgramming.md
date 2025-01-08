@@ -35,7 +35,7 @@
 	-  [[Java]] and [[Python]] are used for big problems.
 #### High vs Low-Level programming language
 - Each language also has an attribute known as [[power]] or [[level]].
-	- Basically, how similar is it to machine code.
+	- Basically, how similar is it to [[machine code]].
 - **Low-level** programming languages
 	- Assembly or C
 - **High-Level** programming languages
